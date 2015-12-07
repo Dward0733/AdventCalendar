@@ -103,4 +103,4 @@
 
 #### おまけ
 
-[このページのmdファイル](./lib/BeginnerMD.md)
+[このページのmdファイル](./lib/BeginnerMD)
